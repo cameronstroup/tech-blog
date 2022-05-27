@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS techieBlog_db;
+CREATE DATABASE techieBlog_db
