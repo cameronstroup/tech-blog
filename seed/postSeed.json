@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Why I don't think Coding is fun.",
+    "body": "It is too hard and makes me sad.",
+    "user_id": 1
+  },
+  {
+    "title": "I don't like Javascript and neither should you.",
+    "body": "It is very confusing to read.",
+    "user_id": 2
+  },
+  {
+    "title": "Don't talk to me while I'm coding",
+    "body": "Actually I could use a break what's up?",
+    "user_id": 3
+  }
+]
